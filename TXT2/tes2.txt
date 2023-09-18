@@ -1,1 +1,1 @@
-isi pertama dari file tes2.txt
+isi kedua dari file tes2.txt, tulisan telah diubah
